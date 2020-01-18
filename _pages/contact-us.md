@@ -3,29 +3,70 @@ layout: page
 title: Contact Us
 permalink: /contact-us/
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
 
-<form accept-charset="UTF-8" action="https://smartforms.dev/submit/5e22dc34d2b1f304f0563baa" method="POST" enctype="multipart/form-data" target="_blank">
-          <div class="form-group">
-            <label for="exampleInputEmail1" required="required">Email address</label>
-            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-          </div>
-          <div class="form-group">
-            <label for="exampleInputName">Name</label>
-            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
-          </div>
-          <div class="form-group">
-            <label for="exampleFormControlSelect1">Favourite Platform</label>
-            <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
-              <option>Github</option>
-              <option>Gitlab</option>
-              <option>Bitbucket</option>
-            </select>
-          </div>
-          <hr>
-          <div class="form-group mt-3">
-            <label class="mr-2">Upload your CV:</label>
-            <input type="file" name="file">
-          </div>
-          <hr>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<h3>Contact Form</h3>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
+</html>
