@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Contact Us
-permalink: /contact-us/
+include_in_header: true
 ---
 
 
