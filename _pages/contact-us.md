@@ -1,3 +1,11 @@
+---
+layout: page
+title: Contact Me
+description: How can I help you?
+form: true
+---
+
+
 <p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
 <form action="https://smartforms.dev/submit/5e22dc34d2b1f304f0563baa" method="POST" >
   <div class="control-group">
