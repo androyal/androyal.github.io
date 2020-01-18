@@ -45,4 +45,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 ### Contacting Us
 
-If you have any questions about our Privacy Policy, Please refer to [contact us](/contact-us){:target="_blank"} page.
+If you have any questions about our Privacy Policy, Please refer to [contact us](/contact-us){:target="_self"} page.
