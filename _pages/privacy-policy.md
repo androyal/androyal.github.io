@@ -37,7 +37,7 @@ Please note that if you “opt out” it does not mean that you will no longer r
 
 ### Our Policy Concerning Children:
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should [contact us](./contact-us.md). We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should [contact us](pages/contact-us.md). We will delete such information from our files within a reasonable time.
 
 ### Changes to this Policy
 
@@ -45,4 +45,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 ### Contacting Us
 
-If you have any questions about our Privacy Policy, Please refer to [contact us](./contact-us.md) page.
+If you have any questions about our Privacy Policy, Please refer to [contact us](pages/contact-us.md) page.
