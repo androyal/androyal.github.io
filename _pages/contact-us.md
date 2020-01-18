@@ -13,6 +13,7 @@ include_in_header: true
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="text" name="_gotcha" style="display:none" />
   </fieldset>
   <input type="submit" value="Submit">
 </form><style>/* reset */
