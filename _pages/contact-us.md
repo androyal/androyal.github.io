@@ -1,37 +1,31 @@
 ---
 layout: page
-title: Contact Me
-description: How can I help you?
-form: true
+title: Contact Us
+permalink: /contact-us/
 ---
 
-
-<p>Want to get in touch? Fill out the form below to send me a message and I will get back to you as soon as possible!</p>
-<form action="https://smartforms.dev/submit/5e22dc34d2b1f304f0563baa" method="POST" >
-  <div class="control-group">
-    <div class="form-group floating-label-form-group controls">
-      <label>Name</label>
-      <input type="text" class="form-control" placeholder="Name" id="name" name="name" required data-validation-required-message="Please enter your name.">
-      <p class="help-block text-danger"></p>
-    </div>
-  </div>
-  <div class="control-group">
-    <div class="form-group floating-label-form-group controls">
-      <label>Email Address</label>
-      <input type="email" class="form-control" placeholder="Email Address" id="email" name="email" required data-validation-required-message="Please enter your email address.">
-      <p class="help-block text-danger"></p>
-    </div>
-  </div>
-  <div class="control-group">
-    <div class="form-group floating-label-form-group controls">
-      <label>Message</label>
-      <textarea rows="8" class="form-control" placeholder="Message" id="message" name="message" required data-validation-required-message="Please enter a message."></textarea>
-      <p class="help-block text-danger"></p>
-    </div>
-  </div>
-  <br>
-  <div id="success"></div>
-  <div class="form-group">
-    <button type="submit" class="btn btn-primary" id="sendMessageButtonxxx">Send</button>
-  </div>
-</form>
+<form accept-charset="UTF-8" action="https://smartforms.dev/submit/5e22dc34d2b1f304f0563baa" method="POST" enctype="multipart/form-data" target="_blank">
+          <div class="form-group">
+            <label for="exampleInputEmail1" required="required">Email address</label>
+            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+          </div>
+          <div class="form-group">
+            <label for="exampleInputName">Name</label>
+            <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
+          </div>
+          <div class="form-group">
+            <label for="exampleFormControlSelect1">Favourite Platform</label>
+            <select class="form-control" id="exampleFormControlSelect1" name="platform" required="required">
+              <option>Github</option>
+              <option>Gitlab</option>
+              <option>Bitbucket</option>
+            </select>
+          </div>
+          <hr>
+          <div class="form-group mt-3">
+            <label class="mr-2">Upload your CV:</label>
+            <input type="file" name="file">
+          </div>
+          <hr>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
