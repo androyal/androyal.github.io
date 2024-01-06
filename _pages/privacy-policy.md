@@ -45,5 +45,5 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 ### Contacting Us:
 
-If you have any questions about our Privacy Policy, please contact us at [email@example.com](mailto:email@example.com) or through our [contact form](/contact-us){:target="_self"}.
+If you have any questions about our Privacy Policy, please contact us through our [contact form](/contact-us){:target="_self"}.
 
