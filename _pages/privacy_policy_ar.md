@@ -3,6 +3,8 @@ layout: page
 title: سياسة الخصوصية
 include_in_header: true
 ---
+<div dir="rtl">
+
 **تم التحديث لآخر مرة في**  
 6 يناير 2024
 
@@ -45,3 +47,4 @@ include_in_header: true
 ### الاتصال بنا:
 
 إذا كان لديك أي أسئلة حول سياسة الخصوصية لدينا، يرجى [الاتصال بنا](/contact-us){:target="_self"} من خلال صفحة ال [contact form](/contact-us){:target="_self"}.
+</div>
