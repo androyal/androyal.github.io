@@ -4,8 +4,7 @@ title: سياسة الخصوصية
 include_in_header: true
 ---
 
-<html dir="rtl" lang="ar">
- <body>
+
 **تم التحديث لآخر مرة في**  
 7 مارس 2024
 
@@ -39,5 +38,4 @@ include_in_header: true
 
 إذا كان لديك أي أسئلة حول سياسة الخصوصية لدينا، يرجى [الاتصال بنا](/contact-us){:target="_self"} من خلال صفحة ال [contact form](/contact-us){:target="_self"}.
 
-</body>
-</html>
+
