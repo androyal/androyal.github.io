@@ -22,6 +22,11 @@ We collect limited data necessary for app functionality and to enhance user expe
 We do not collect or share advertising identifiers (such as IDFAs, IDFVs, or Advertising IDs) unless explicitly consented to by the user. Similarly, we do not share precise location data with third parties unless the user provides explicit consent.
 
 
+### Integration with Apple Health:
+
+Our app "NutriTracker & Calorie Counter" integrates with Apple Health for the purpose of writing nutrition information. This integration allows users to seamlessly sync their nutrition data with Apple Health to manage their dietary intake alongside other health data. Please note that our app will only write nutrition information to Apple Health and will not read any data from it.
+
+
 ### Our Policy Concerning Children:
 
 We do not use the Application to knowingly solicit data from or market to children under the age of 13. 
