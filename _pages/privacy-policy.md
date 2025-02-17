@@ -15,11 +15,20 @@ This privacy policy governs your use of all apps for mobile devices created unde
 
 We collect limited data necessary for app functionality and to enhance user experience. This includes:
 
-- Device language and locale settings.
-- Time zone and session start/stop times for analytics purposes.
-- Network status (e.g., WiFi, cellular) for optimizing content delivery.
+- Personal Information: Like age, gender, city, etc.
+- Usage Data: Like interactions with the app, session logs, and preferences.
+- Device Information: Like device model, device language operating system, and IP address.
+- Location Data: Precise or approximate location (if enabled).
 
 We do not collect or share advertising identifiers (such as IDFAs, IDFVs, or Advertising IDs) unless explicitly consented to by the user. Similarly, we do not share precise location data with third parties unless the user provides explicit consent.
+
+### Third-party Advertisers
+
+We may engage third-party companies to display advertisements within the Application. These companies may utilize
+information about your visits to the Application and other websites, collected through web cookies, to deliver
+advertisements tailored to your interests. All of our partners are committed to respecting users' fundamental legal
+rights to data protection and privacy.
+Privacy Policy: [Appvestor Privacy Policy](https://legal.appvestor.com/privacy-policy/)
 
 
 ### Integration with Apple Health:
